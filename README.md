@@ -1,1 +1,9 @@
-# flask-mongoengine-tutorial
+```bash
+$ flask run
+```
+
+OR
+
+```bash
+$ flask shell
+```
